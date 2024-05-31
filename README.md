@@ -44,7 +44,7 @@ To get started with the application, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <https://github.com/Antony-Maxwell/news_app.git>
+   git clone https://github.com/Antony-Maxwell/news_app.git
    cd news_app
    ```
 
