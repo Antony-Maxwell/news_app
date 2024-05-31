@@ -44,7 +44,7 @@ To get started with the application, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/Antony-Maxwell/news_app.git>
    cd news_app
    ```
 
@@ -102,5 +102,3 @@ Contributions are welcome! If you find any bugs or have any suggestions for impr
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-Enjoy using the News Application! If you have any questions or feedback, please feel free to reach out.
